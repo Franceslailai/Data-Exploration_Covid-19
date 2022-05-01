@@ -1,5 +1,5 @@
 --Covid-19 Data Exploration with SQL
---The data is updated until 18/04/2022
+--The data is updated until 18/04/2022-
 
 SELECT *
 FROM SQLPractice_Covid19..CovidDeaths
